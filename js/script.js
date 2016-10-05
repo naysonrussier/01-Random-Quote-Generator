@@ -1,4 +1,10 @@
-/*Starting with a few variables
+/*
+Random quote Generator
+
+
+This program has benn tested on : Mozilla, Chrome, Internet Explorer, and Edge. It works all fine
+
+Starting with a few variables
 
 'HTML' contains text to print the quote onto the page
 'listPrinted' contains a list of the first quotes printed to be sure not to be printed more than once
